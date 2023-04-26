@@ -5,3 +5,9 @@ Some example images:
 <br />
 <br />
 ![Example images](examples/demo.svg)
+
+To superresolve an image using one of the provided models, use the demo.py script:
+
+```
+python demo.py models/<model.h5> <path to image>
+```
