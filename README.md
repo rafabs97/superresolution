@@ -13,3 +13,20 @@ Some example images:
 <br />
 <br />
 ![Example images](examples/demo.svg)
+
+## Citation
+
+If you find our work helpful for your research, please cite our publications:
+
+```
+@inproceedings{10.1007/978-3-031-44237-7_5,
+author = {Berral-Soler, Rafael and Madrid-Cuevas, Francisco J. and Ventura, Sebasti\'{a}n and Mu\~{n}oz-Salinas, Rafael and Mar\'{\i}n-Jim\'{e}nez, Manuel J.},
+title = {A Comparison of&nbsp;Neural Network-Based Super-Resolution Models on&nbsp;3D Rendered Images},
+booktitle = {Computer Analysis of Images and Patterns: 20th International Conference, CAIP 2023, Limassol, Cyprus, September 25–28, 2023, Proceedings, Part I},
+doi = {10.1007/978-3-031-44237-7_5},
+year = {2023},
+publisher = {Springer-Verlag},
+pages = {45–55},
+isbn = {978-3-031-44236-0},
+}
+```
