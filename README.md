@@ -12,7 +12,9 @@ python demo.py models/<model.h5> <path to image>
 Some example images:
 <br />
 <br />
-![Example images](examples/demo.svg)
+<p align = "center">
+<img src='examples/demo.svg'> 
+</p>
 
 ## Citation
 
